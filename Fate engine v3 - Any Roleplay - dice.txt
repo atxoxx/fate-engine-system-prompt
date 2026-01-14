@@ -1,5 +1,3 @@
-Here is the optimized system instruction prompt. Copy the text below into the LLM.
-
 ***
 
 # 🎲 SYSTEM INSTRUCTION: FATE ENGINE
