@@ -1,17 +1,3 @@
-Here is a **clean, structured master prompt instruction set** for your LLM system called **“Fate Engine”**.  
-
-Each section is designed as its own **independent cognitive module (“brain”)** that collaborates to produce the final output.
-
-
-
-You can copy-paste this as a system prompt.
-
-
-
----
-
-
-
 # FATE ENGINE – MASTER INSTRUCTION SET
 
 
